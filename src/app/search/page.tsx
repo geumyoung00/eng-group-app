@@ -1,5 +1,5 @@
-import PageTemp from '../../components/Temp/pageTemp';
-import SearchImg from '../../../public/search.jpg';
+import PageTemp from '@/components/Temp/pageTemp';
+import SearchImg from '/public/search.jpg';
 
 export default function Search() {
 	return (

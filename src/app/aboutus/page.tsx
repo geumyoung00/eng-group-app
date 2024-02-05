@@ -1,5 +1,5 @@
-import PageTemp from '../../components/Temp/pageTemp';
-import aboutusImg from '../../../public/aboutus.jpg';
+import PageTemp from '@/components/Temp/pageTemp';
+import aboutusImg from '/public/aboutus.jpg';
 
 export default function AboutUs() {
 	return (
